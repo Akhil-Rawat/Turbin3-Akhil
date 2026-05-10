@@ -10,14 +10,23 @@ The NFT uses the `FreezeDelegate` core plugin so the asset is created with a rea
 # Result Achieved 
 
 SPL token minted successfully
+
 Mint: HigWza6kwM83RiQL9ksPzXqqREDfmDoAhHtSrkXn4c7d
+
 Associated token account: B61FoBte3iud2SBHsEZyjsW9MuYSp531bMDLDWSHs2an
+
 Amount minted: 100 tokens (100000000000 base units)
+
 MPL Core NFT minted successfully
+
 Asset: CbHqmEGBmXC6zoDkr7KnhPc3HvakPkgar8vMi5rMkvhh
+
 Name: Turbin3 Core NFT
+
 URI: https://example.com/metadata.json
+
 Plugin: FreezeDelegate (frozen=false) 
+
 
 ## Stack
 
