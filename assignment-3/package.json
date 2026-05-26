@@ -1,0 +1,19 @@
+{
+  "name": "assignment-3-vault",
+  "version": "1.0.0",
+  "description": "Vault program and tests for Assignment 3 (Litesvm-style simulation)",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest --colors",
+    "prepare-screenshot": "node ./scripts/run-and-capture.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "29.5.2",
+    "jest": "29.6.1",
+    "ts-jest": "29.1.0",
+    "typescript": "5.2.2"
+  }
+}
